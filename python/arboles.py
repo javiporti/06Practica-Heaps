@@ -1,5 +1,3 @@
-
-
 class Nodo:
     def __init__(self, valor, izq=None, der=None):
         self.valor = valor
